@@ -1,0 +1,6 @@
+https://coasttrain.github.io/CoastTrain/
+
+海岸訓練資料集
+用於訓練機器學習分類模型的沿海環境的標記影像。
+CoastTrain
+Labeled images of coastal environments for training Machine Learning classification models.
